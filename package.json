@@ -1,6 +1,6 @@
 {
   "name": "hexoadmin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a hexo plugin let you can create admin UI",
   "main": "index.js",
   "dependencies": {
