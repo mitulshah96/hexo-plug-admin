@@ -1,0 +1,23 @@
+{
+  "name": "hexoadmin",
+  "version": "1.0.0",
+  "description": "a hexo plugin let you can create admin UI",
+  "main": "index.js",
+  "dependencies": {
+    "hexo-fs": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roybein/hexo-url-image.git"
+  },
+  "keywords": [
+    "hexo",
+    "admin"
+  ],
+  "author": "satioO",
+  "license": "MIT"
+}
