@@ -1,23 +1,91 @@
 {
-  "name": "hexoadmin",
-  "version": "1.0.1",
-  "description": "a hexo plugin let you can create admin UI",
-  "main": "index.js",
+  "_args": [
+    [
+      {
+        "raw": "hexo-plug-admin",
+        "scope": null,
+        "escapedName": "hexo-plug-admin",
+        "name": "hexo-plug-admin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\my-blog"
+    ]
+  ],
+  "_from": "hexo-plug-admin@latest",
+  "_id": "hexo-plug-admin@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/hexo-plug-admin",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/hexo-plug-admin-1.0.0.tgz_1478336360883_0.995562753174454"
+  },
+  "_npmUser": {
+    "name": "satio",
+    "email": "vaibhav.satam29991@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "hexo-plug-admin",
+    "scope": null,
+    "escapedName": "hexo-plug-admin",
+    "name": "hexo-plug-admin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-plug-admin/-/hexo-plug-admin-1.0.0.tgz",
+  "_shasum": "3f6c086b25f05426fb3d5550579646a30f8b4078",
+  "_shrinkwrap": null,
+  "_spec": "hexo-plug-admin",
+  "_where": "E:\\my-blog",
+  "author": {
+    "name": "satioO"
+  },
+  "bugs": {
+    "url": "https://github.com/SatioO/hexoadmin/issues"
+  },
   "dependencies": {
     "hexo-fs": "^0.1.5"
   },
+  "description": "a hexo plugin let you can create admin UI",
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "directories": {},
+  "dist": {
+    "shasum": "3f6c086b25f05426fb3d5550579646a30f8b4078",
+    "tarball": "https://registry.npmjs.org/hexo-plug-admin/-/hexo-plug-admin-1.0.0.tgz"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/roybein/hexo-url-image.git"
-  },
+  "gitHead": "5bd7779d7bc205a3e36f1317318451a941b37bdf",
+  "homepage": "https://github.com/SatioO/hexoadmin#readme",
   "keywords": [
     "hexo",
     "admin"
   ],
-  "author": "satioO",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "satio",
+      "email": "vaibhav.satam29991@gmail.com"
+    }
+  ],
+  "name": "hexo-plug-admin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatioO/hexoadmin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }

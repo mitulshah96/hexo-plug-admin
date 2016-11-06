@@ -1,5 +1,5 @@
-var fs = require('hexo-fs');
+'use strict';
 
-hexo.extend.filter.register('server_middleware', function(app) {
-  console.log(app);
+hexo.extend.filter.register('server_middleware', function (app) {
+  require('./admin')(hexo, app);
 });
