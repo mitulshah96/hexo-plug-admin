@@ -29,6 +29,8 @@ function entry(instance, app) {
             require('./api')(instance, app);
         }
     }).catch(function(err){
+
+        //catching error
         console.log(chalk.red('Error!! No client folder exists.'));
         console.log(chalk.green('Please run < hexo serve clone > to bootstrap hexo admin'));
     });
